@@ -1,0 +1,6 @@
+print('Hello guys this is calculator')
+value1=input()
+value2=input()
+value_out=int(value1)*int(value2)
+print('multiplication is')
+print(value_out)
