@@ -35,9 +35,7 @@ class Num_Queen:
 
 
 def main():
-    """Initialize and solve the n queens puzzle"""
     Num_Queen(8)
 
 if __name__ == "__main__":
-    # execute only if run as a script
     main()
